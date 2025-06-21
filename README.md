@@ -17,3 +17,5 @@ Rave Generation: Sonic Dynamics - Changelog
 **1.0.1 | 21-06-2024**
 
 DSP: Sidechain fix
+
+DSP: Presets added
